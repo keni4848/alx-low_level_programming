@@ -1,12 +1,11 @@
-#include <studio.h>
-
+#include <stdio.h>
 /**
- * main - prints the phrase "programming is like buliding a multiligual puzzle
- *Retun: 0 if exited properly,non_zero othewise
- */
+* main - prints the phrase "Programming is lik
+* Return: 0 if exited properly, non-zero otherw
+*/
 int main(void)
 {
-puts("\"programing is like building a multiilingual puzzle");
-retun(0);
+puts("\"Programming is like building a multili
+return (0);
 }
 
