@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-* main - prints the phrase "Programming is lik
-* Return: 0 if exited properly, non-zero otherw
+* main - prints the phrase "Programming is like buildiing a multilingual puzzle
+* Return: 0 if exited properly, non-zero otherwise
 */
 int main(void)
 {
