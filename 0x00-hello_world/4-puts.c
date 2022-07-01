@@ -5,7 +5,7 @@
 */
 int main(void)
 {
-puts("\"Programming is like building a multili
+puts("Programming is like building a multili");
 return (0);
 }
 
